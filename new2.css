@@ -52,11 +52,7 @@ body {
     justify-content: flex-end; 
     align-items: center;
   }
-  
   .image-section img {
     max-width: 90%;
-    /* max-height: 400px; */
-    /* height: 500px; */
-    /* height: auto; */
     object-fit: contain;
   }
